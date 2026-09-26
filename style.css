@@ -116,3 +116,17 @@ footer {
         font-size: 30px;
     }
 }
+.pinterest-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 12px 20px;
+    background: #bd081c;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.pinterest-button:hover {
+    opacity: 0.85;
+}
