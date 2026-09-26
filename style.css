@@ -130,3 +130,21 @@ footer {
 .pinterest-button:hover {
     opacity: 0.85;
 }
+.tips-box {
+    background: #f3eee8;
+    padding: 25px;
+    margin: 30px 0;
+    border-radius: 12px;
+}
+
+.tips-box h2 {
+    margin-bottom: 15px;
+}
+
+.tips-box ul {
+    padding-left: 25px;
+}
+
+.tips-box li {
+    margin-bottom: 8px;
+}
